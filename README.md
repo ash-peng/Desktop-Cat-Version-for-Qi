@@ -7,3 +7,5 @@ The rabbit (they/them) jumps left and right in a straight line, sometimes stops 
 The deer (she/her) gallops in random directions and jumps back to check in with the rabbit once in a while. If you wait long enough the deer might breed.
 
 The wedding decorations are based on real decorations of "Simple Love Coffee Home" in Vancouver, Canada, where the wedding took place in January 2023.
+
+![Snapshot](https://github.com/ash-peng/Desktop-Pets-For-Qi/blob/main/example.gif)
